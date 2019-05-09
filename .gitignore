@@ -1,2 +1,3 @@
 .vscode
 blog/
+.app/__pycache__
