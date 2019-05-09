@@ -1,2 +1,4 @@
 .vscode
 blog/
+*.db
+**/__pycache__/

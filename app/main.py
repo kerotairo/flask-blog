@@ -1,6 +1,6 @@
 #Entry-point for executing our application
 
-from app import app
+from app import app,db
 import models
 import views
 
