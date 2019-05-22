@@ -6,4 +6,4 @@ from app import app
 def homepage():
     name = request.args.get('name')
     number = request.args.get('number')
-    return render_template('homepage.html.j2',name=name,number=number)
+    return render_template('homepage.html',name=name,number=number)
